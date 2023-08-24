@@ -1,4 +1,4 @@
-#include "mont.h"
+#include "monty.h"
 
 /**
  * read_file - Read the opened file and execute Monty bytecode.

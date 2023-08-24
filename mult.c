@@ -1,4 +1,4 @@
-#include "monty_main.h"
+#include "monty.h"
 
 /**
  * mul - Multiply two numbers
