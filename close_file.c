@@ -1,4 +1,4 @@
-#include "monty_main.h"
+#include "monty.h"
 
 /**
  * close_file - Close the file

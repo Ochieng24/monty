@@ -1,4 +1,4 @@
- #include "monty_main.h"
+ #include "mont.h"
 
 /**
  * sub - Subtract two numbers

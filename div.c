@@ -1,4 +1,4 @@
-#include "monty_main.h"
+#include "monty.h"
 
 /**
  * free_list - Free the memory used by the stack
