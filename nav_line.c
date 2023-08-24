@@ -1,4 +1,4 @@
-#include "monty.h"
+#include "monty_main.h"
 
 /**
  * parse_line - Parses a line of Monty bytecode and executes the corresponding instruction.
